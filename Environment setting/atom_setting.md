@@ -2,6 +2,17 @@
 
 Atom is a open-source editor. It allows to program in different languages and even preview your Github flavored Markdown files.
 
+### Basic keybindings
+* `ctrl-shift-m`: Preview Markdown document.
+* `ctrl-shift-p`: Call the command palette.
+* `ctrl-,`: Open setting windows.
+* `ctrl-\`: Show or hide the Atom's file Tree View.
+* `ctrl-shift-k`: delete the current line.
+* `ctrl-shift-d`: duplicate the current line.
+* `ctrl-up` or `ctrl-down`: move the current line up or down.
+* `ctrl-shift-h`: show command line of git-plus.
+* `ctrl-alt-r`: reload Atom.
+
 ### Interesting plugings
 One strong point of Atom is its increasing community and high-quality plugings developed. The most Interesting to begin are:
 
