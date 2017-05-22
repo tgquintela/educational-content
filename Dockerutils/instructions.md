@@ -7,7 +7,9 @@
 This repository has the basic data for run a python jupyter data science environment.
 
 ```bash
-git clone https://github.com/tgquintela/educational-scripts/tree/master/Dockerutils
+git clone https://github.com/tgquintela/educational-scripts
+mv educational-scripts/Dockerutils/* .
+rm -rf educational-scripts
 ```
 The files of that repository are:
 * `instructions.md`: the current file of instructions.
