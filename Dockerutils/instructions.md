@@ -8,7 +8,7 @@ This repository has the basic data for run a python jupyter data science environ
 
 ```bash
 git clone https://github.com/tgquintela/educational-scripts
-mv educational-scripts/Dockerutils/* .
+mv educational-scripts/Dockerutils/Dockerfile .
 rm -rf educational-scripts
 ```
 The files of that repository are:
