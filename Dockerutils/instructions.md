@@ -4,7 +4,7 @@
 
 ### Download the data
 
-This repository has the basic data for run a python jupyter data science environment.
+This repository has the basic data for run a python jupyter data science environment. In order to keep it locally you have to run the following instruction in your terminal or download `Dockerfile` manually.
 
 ```bash
 git clone https://github.com/tgquintela/educational-scripts
