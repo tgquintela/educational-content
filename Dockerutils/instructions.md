@@ -35,7 +35,7 @@ You should follow the next steps:
 After that you can run the following command.
 
 ```bash
-docker run -rm --name name_of_container -v /path/to/data:/working -p 8888:8888 -it name_of_image
+docker run --rm --name name_of_container -v /path/to/data:/working -p 8888:8888 -it name_of_image
 ```
 
 You should substitute `name_of_container`, `/path/to/data` and `name_of_image` by the names and path suitable for your project.
